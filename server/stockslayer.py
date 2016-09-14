@@ -10,10 +10,11 @@ Licensed under the terms of the MIT license.
 
 import sys
 from threading import Thread
-from server import *
+import server
+import market
 
 def init():
-    s = Server()
+    s = server.Server()
     server_thread = Thread(target=s.run)
     server_thread.daemon = True
     server_thread.start()

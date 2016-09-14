@@ -11,6 +11,7 @@ import socket
 import threading
 import sys
 
+import market
 
 #XXX Currently this is only an echo server
 

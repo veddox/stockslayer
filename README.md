@@ -8,5 +8,7 @@ and thus their share price, can be impacted by randomly occuring
 events.
 
 ##Copyright
+
 Copyright (c) 2016 by Daniel Vedder and Niklas Götz
+
 StockSlayer is licensed under the terms of the MIT License.

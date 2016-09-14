@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<content>
+  <!-- COMPANIES -->
+  <company>
+	<name>Pear Computers</name>
+	<industry>Computer</industry>
+	<share>105</share>
+  </company>
+  <company>
+	<name>Nanosoft</name>
+	<industry>Computer</industry>
+	<share>60</share>
+  </company>
+  <company>
+	<name>Goggle</name>
+	<industry>Computer</industry>
+	<share>780</share>
+  </company>
+  <company>
+	<name>Dutch Bank</name>
+	<industry>Finance</industry>
+	<share>15</share>
+  </company>
+  <company>
+	<name>JC Organ</name>
+	<industry>Finance</industry>
+	<share>30</share>
+  </company>
+  <company>
+	<name>X Combinator</name>
+	<industry>Finance</industry>
+	<share>10</share>
+  </company>
+  <company>
+	<name>Colditz Laboratories</name>
+	<industry>Pharmaceutics</industry>
+	<share>5</share>
+  </company>
+  <company>
+	<name>Baier</name>
+	<industry>Pharmaceutics</industry>
+	<share>95</share>
+  </company>
+  <company>
+	<name>Camgen</name>
+	<industry>Pharmaceutics</industry>
+	<share>155</share>
+  </company>
+  <company>
+	<name>Mapani Copper Mines</name>
+	<industry>Mining</industry>
+	<share>10</share>
+  </company>
+  <company>
+	<name>Australian Gold</name>
+	<industry>Mining</industry>
+	<share>5</share>
+  </company>
+  <company>
+	<name>Chemical &amp; Mining Co.</name>
+	<industry>Mining</industry>
+	<share>25</share>
+  </company>
+  <company>
+	<name>Nile.com</name>
+	<industry>Logistics</industry>
+	<share>785</share>
+  </company>
+  <company>
+	<name>Bundespost</name>
+	<industry>Logistics</industry>
+	<share>30</share>
+  </company>
+  <company>
+	<name>Feedex</name>
+	<industry>Logistics</industry>
+	<share>165</share>
+  </company>
+  <company>
+	<name>AMW</name>
+	<industry>Automobile</industry>
+	<share>80</share>
+  </company>
+  <company>
+	<name>Rolls Ross</name>
+	<industry>Automobile</industry>
+	<share>135</share>
+  </company>
+  <company>
+	<name>Generic Motors</name>
+	<industry>Automobile</industry>
+	<share>30</share>
+  </company>
+  <!-- EVENTS -->
+
+</content>
